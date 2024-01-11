@@ -89,7 +89,7 @@ static DateTime GetDateFromUser(string message)
 
 static void ShowError(string error)
 {
-    Console.WriteLine("*********");
+    Console.WriteLine("*******************");
     Console.WriteLine(error);
-    Console.WriteLine("*********");
+    Console.WriteLine("*******************");
 }
